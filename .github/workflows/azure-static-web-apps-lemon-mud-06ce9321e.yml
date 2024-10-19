@@ -9,4 +9,4 @@ close_pull_request_job:
       with:
         azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_LEMON_MUD_06CE9321E }}
         action: "close"
-        comment: "hello"  # Commentaire ajouté ici
+        comment: "hello"  
